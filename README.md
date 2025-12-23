@@ -15,7 +15,7 @@
 
 ---
 
-### 🏗 核心技术栈（偏架构）
+### 🏗 核心技术栈
 
 **后端与架构**
 - Java / Spring Boot / Spring Cloud

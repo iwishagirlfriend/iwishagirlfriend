@@ -1,4 +1,4 @@
-## 👋 Ciallo，我是 Sun
+## 👋 你好，我是 Sun
 
 🧱 偏架构思维的后端工程师  
 🚀 专注于可扩展系统、清晰架构与领域建模（DDD）  
@@ -80,3 +80,7 @@
 ### 📫 联系方式
 
 - GitHub：https://github.com/iwishagirlfriend
+
+<p align="center">
+  <img src="https://media.tenor.com/2roX3uxz_68AAAAC/ciallo-anime.gif" width="220" alt="Ciallo~(∠・ω< )⌒☆">
+</p>
